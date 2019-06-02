@@ -1,0 +1,31 @@
+#slides h2,
+#slides h3 {
+    padding: 0.125em 0.375em;
+}
+
+h2 {
+    color: rgba(255,97,46,1.0) !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgba(255,97,46,1.0) !important; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+h2.title1,
+h2.title6 {
+	text-shadow: 0.1875rem 0.125rem rgba(255,255,255,.5);
+}
+
+h2.title2,
+h2.title4 {
+	text-shadow: 0.1875rem 0.125rem rgba(0,0,0,.8);
+}
+
+h2.title3,
+h2.title5,
+h2.title7 {
+	text-shadow: 0.125rem 0.125rem rgba(255,255,255,.7);
+}
